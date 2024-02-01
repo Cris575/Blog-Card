@@ -1,0 +1,60 @@
+# Frontend Mentor - Blog preview card solution
+
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+- If anyone sees this I want to tell them not to give up, to keep developing, to keep learning, I know it's frustrating at first, I know it very well, but little by little you will see the great progress you are making and you won't believe everything you see. They are capable, no matter what happens, don't give up and keep developing <3.
+
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
+### Screenshot
+
+![](./screenshot/page.png)
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### Continued development
+
+I want to continue developing some projects with CSS since it catches my attention and is something that I really like. I know I have a lot to learn and there are many more that I have to strengthen but I will continue to learn more and more. My future plan is to continue developing with increasingly complex technologies and you will surely see me here sharing my experiences with these technologies.
+
+
+### Useful resources
+
+- [Example resource 1](https://www.freecodecamp.org/learn/) - It is a great free resource for people who are learning and has various technology courses and has a lot of useful information.
+
+
+## Author
+
+- Frontend Mentor - [@Cris575](https://www.frontendmentor.io/profile/Cris575)
+- GitHub - [Cris575](https://github.com/Cris575)
+
+
+
+
