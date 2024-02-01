@@ -47,7 +47,7 @@ I want to continue developing some projects with CSS since it catches my attenti
 
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.org/learn/) - It is a great free resource for people who are learning and has various technology courses and has a lot of useful information.
+- [freeCodeCamp](https://www.freecodecamp.org/learn/) - It is a great free resource for people who are learning and has various technology courses and has a lot of useful information.
 
 
 ## Author
