@@ -5,7 +5,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -18,11 +17,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Overview
 - If anyone sees this I want to tell them not to give up, to keep developing, to keep learning, I know it's frustrating at first, I know it very well, but little by little you will see the great progress you are making and you won't believe everything you see. They are capable, no matter what happens, don't give up and keep developing <3.
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
