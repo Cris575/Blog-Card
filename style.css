@@ -33,7 +33,7 @@ article {
     border: 1px solid var(--Black);
     border-radius: 20px;
     padding: 15px;
-    box-shadow:15px 15px var(--Black) ;
+    box-shadow:7px 7px var(--Black) ;
 }
 
 span {
